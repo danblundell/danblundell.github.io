@@ -1,0 +1,11 @@
+version: "3.7"
+
+services:
+  blog:
+    container_name: jekyll_blog
+    image: jekyll/jekyll:latest
+    command: jekyll serve --watch --incremental
+    ports:
+    - "4000:4000"
+    volumes:
+    - .:/srv/jekyll

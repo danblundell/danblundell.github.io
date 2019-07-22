@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Weeknotes #1"
+date: "2019-07-08"
+categories: weeknotes
+---
+
+## Strategy writing
+
+I've just started working on a 'systems strategy' for the [Revenues and Benefits][revs-bens-website] service at [LGSS][lgss-website]. The service runs Council Tax, Housing Benefit, Business Rates, Blue Badge and a few other services for Milton Keynes, Horsham and Northampton councils. I want to do something a little different with this strategy, most so-called strategy documents that I see are more vision statements backed by examples from other organisations rather than real data and local context. "It worked there so we'll just do that and it'll all be better" ... whatever that means.
+
+Although this is supposed to be a systems strategy, I completely disagree with only considering a service based on systems and technology, it's mad. It also has a track record of not really delivering _actual_ change so yeah, I'd rather not do that. Instead, I'm trying to focus on people, creating empathy for change and ensuring that the strategy helps the Revs and Bens service to change continuously in future in an effort to make learning a continuous practice across the service and consequently, improve the service for users.
+
+Wish me luck eh. I'm not niaive enough to think it'll work first time, it's a whole networked-system of things that all interact at different levels but mostly, I believe we need to make the strategy for the service about the _people_.
+
+## I need people
+
+On a different note, I had a happy coincidence this week. My friend [Lauren][redjotter-twitter] was giving a talk to some super folk at Citizens Advice and the conference happened to be in Northampton, the same day I was based there.
+
+Although I had a busy day and plenty of other things that needed my time, it's rare for me and Lauren to get the chance to hang out and talk in person, so I rearranged a few things and got myself out to spend some time talking, like people. It left me feeling pretty buzzing, not because of anything we particularly talked about, just that I'd been selfish, in a good way and hung out with someone 
+
+[redjotter]: https://www.redjotter.com/
+[redjotter-twitter]: https://www.twitter.com/redjotter
+[revs-bens-website]: https://www.lgss-revs-bens.com
+[lgss-website]: https://www.lgss.co.uk
