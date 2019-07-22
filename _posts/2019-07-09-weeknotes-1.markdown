@@ -11,15 +11,42 @@ I've just started working on a 'systems strategy' for the [Revenues and Benefits
 
 Although this is supposed to be a systems strategy, I completely disagree with only considering a service based on systems and technology, it's mad. It also has a track record of not really delivering _actual_ change so yeah, I'd rather not do that. Instead, I'm trying to focus on people, creating empathy for change and ensuring that the strategy helps the Revs and Bens service to change continuously in future in an effort to make learning a continuous practice across the service and consequently, improve the service for users.
 
-Wish me luck eh. I'm not niaive enough to think it'll work first time, it's a whole networked-system of things that all interact at different levels but mostly, I believe we need to make the strategy for the service about the _people_.
+Wish me luck eh. I'm not naive enough to think it'll work first time, it's a whole networked-system of things that all interact at different levels but mostly, I believe we need to make the strategy for the service about the _people_.
 
 ## I need people
 
 On a different note, I had a happy coincidence this week. My friend [Lauren][redjotter-twitter] was giving a talk to some super folk at Citizens Advice and the conference happened to be in Northampton, the same day I was based there.
 
-Although I had a busy day and plenty of other things that needed my time, it's rare for me and Lauren to get the chance to hang out and talk in person, so I rearranged a few things and got myself out to spend some time talking, like people. It left me feeling pretty buzzing, not because of anything we particularly talked about, just that I'd been selfish, in a good way and hung out with someone 
+Although I had a busy day and plenty of other things that needed my time, it's rare for me and Lauren to get the chance to hang out and talk in person, so I rearranged a few things and got myself out to spend some time talking, like people. It left me feeling pretty buzzing, not because of anything we particularly talked about, just that I'd been selfish, in a good way and hung out with someone who has an immediate and always positive affect on me.
+
+On a related note, I started listening to '[Make Time][make-time-book]' by Jake Knapp and John Zeratsky after it'd be recommended a few times. The book is about making time for the important things in your life, your own priorities through a series of tactics. So far it's been pretty good for me, picking and choosing things that I find helpful. One of the tactics in the book is about being able to switch your daily highlight and the day that Lauren was in town, I did exactly that. I switched up my highlight from something that was more important to me because it gave me more joy.
+
+## DevDay
+
+We started prep for our quarterly 'DevDay' this week. For the past year I've been running an all-dayer for technical staff in our team. The day is a full day off project and support work to spend time with each other, listen, talk and learn together. 
+
+The format of the day is typically a few self-made stories and presentations in the morning and some more practical activities / hacks / workshops in the afternoon. It takes a heck of a lot of organising for me normally. This one, number five, is the first where we've had a full band of technical leads in the the team to help contribute, organise and prep talks, activities and logistics for the day.
+
+We're having a call each week to check-in on progress and all being well, we'll have a great day on the 25th July.
+
+## Other things from the week
+
+* I coached four people through problems this week, continuing my goal of not solving problems for people but helping them to solve things themselves
+* We started decommissioning some software this week, only to be asked to stop that work three days into it (sometimes people just can't make their mind up?!)
+* Went to a product demo that was okay, which has to be a win really
+* Moved this blog back to [Jekyll][jekyll] because it's less work to maintain
+* Spent some great time with my son who continues to amaze me every day
+
+## Currently reading
+* [Make Time][make-time-book] by Jake Knapp and John Zeratsky
+* [Classic Scrapes][ja-book] by [James Acaster][ja]
+
 
 [redjotter]: https://www.redjotter.com/
 [redjotter-twitter]: https://www.twitter.com/redjotter
 [revs-bens-website]: https://www.lgss-revs-bens.com
 [lgss-website]: https://www.lgss.co.uk
+[make-time-book]: https://maketime.blog/
+[jekyll]: https://jekyllrb.com/
+[ja-book]: https://www.amazon.co.uk/dp/1472247191/ref=cm_sw_em_r_mt_dp_U_ghznDbX7E8NTV
+[ja]: https://www.jamesacaster.com/
