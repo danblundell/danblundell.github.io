@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  "Weeknotes #1"
+title: "Weeknotes #1"
+tag:
 date: "2019-07-08"
-categories: weeknotes
+meta: ""
+image: ""
+categories: ["weeknotes"]
 ---
 
 ## Strategy writing

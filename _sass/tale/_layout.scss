@@ -1,6 +1,6 @@
 .container {
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 728px;
   width: 80%;
 }
 
@@ -9,27 +9,29 @@ footer,
 .nav-container {
   display: block;
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 728px;
   width: 80%;
 }
+
 
 .nav {
   box-shadow: 0 2px 2px -2px $shadow-color;
   overflow: auto;
-
+  background-color: $white;
   &-container {
     margin: 1rem auto;
     position: relative;
-    text-align: center;
+    text-align: left;
   }
 
   &-title {
     @include transition(all .2s ease-out);
-    color: $default-color;
+    color: $color3;
     display: inline-block;
     margin: 0;
     padding-right: .2rem;
-
+    font-size: 1em;
+    text-transform: uppercase;
     &:hover,
     &:focus {
       opacity: .6;
@@ -47,9 +49,11 @@ footer,
     @include transition(all .2s ease-out);
     color: $default-color;
     display: inline-block;
-    opacity: .6;
+    opacity: 1;
     padding: 0 2rem 0 0;
-
+    font-size: 0.675em;
+    font-weight:bold;
+    text-transform: uppercase;
     &:last-child {
       padding-right: 0;
     }
@@ -61,7 +65,7 @@ footer,
   }
 
   a {
-    color: $default-color;
+    color: $color4;
     font-family: $sans-serif;
   }
 }
@@ -86,7 +90,7 @@ footer {
   text-align: center;
 
   span {
-    color: $default-color;
+    color: $color3;
     font-size: .8rem;
   }
 }

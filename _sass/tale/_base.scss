@@ -5,23 +5,25 @@
 
 html,
 body {
-  color: $default-color;
+  color: $color3;
   margin: 0;
   padding: 0;
 }
 
 html {
   font-family: $serif-primary;
-  font-size: 14px;
+  font-size: 18px;
+  color: $color3;
   overflow-y: scroll;
 
   @media (min-width: 600px) {
-    font-size: 16px;
+    font-size: 21px;
   }
 }
 
 body {
   -webkit-text-size-adjust: 100%;
+  background: $color1;
 }
 
 h1,
@@ -30,13 +32,12 @@ h3,
 h4,
 h5,
 h6 {
-  color: $default-shade;
   font-family: $sans-serif;
   line-height: normal;
 }
 
 a {
-  color: $blue;
+  color: $color4;
   text-decoration: none;
 }
 
@@ -64,3 +65,5 @@ img {
 td {
   vertical-align: top;
 }
+
+

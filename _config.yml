@@ -2,7 +2,7 @@
 title:          Dan Blundell
 description:    "Tech Lead"
 url:            "https://www.danblundell.com"
-
+timezone:       Europe/London
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
@@ -28,6 +28,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-coffeescript
   - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
