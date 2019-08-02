@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Tinos:400,400i,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Fira+Code&display=swap');
 // Colors
 $default-color: #555;
 $default-shade: #353535;
@@ -18,10 +20,10 @@ $color4: rgba(222, 60, 75, 1);
 $color5: rgba(196, 40, 71, 1);
 
 // Fonts
-$serif-primary: 'Nunito Sans', 'Times New Roman', Times, serif;
+$serif-primary: 'Tinos', 'Times New Roman', Times, serif;
 $serif-secondary: Palatino, 'Palatino LT STD', 'Palatino Linotype', 'Book Antiqua', 'Georgia', serif;
 $sans-serif: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif;
-$monospaced: Menlo, Monaco, monospace;
+$monospaced: 'Fira Code', Menlo, Monaco, monospace;
 
 @mixin box-sizing($type: border-box) {
   -webkit-box-sizing: $type;
