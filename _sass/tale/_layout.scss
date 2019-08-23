@@ -17,7 +17,7 @@ footer,
 .nav {
   box-shadow: 0 2px 2px -2px $shadow-color;
   overflow: auto;
-  background-color: $white;
+  background-color: $color1;
   &-container {
     margin: 1rem auto;
     position: relative;
@@ -53,7 +53,6 @@ footer,
     padding: 0 2rem 0 0;
     font-size: 0.675em;
     font-weight:bold;
-    text-transform: uppercase;
     &:last-child {
       padding-right: 0;
     }
@@ -65,7 +64,7 @@ footer,
   }
 
   a {
-    color: $color4;
+    color: $color3;
     font-family: $sans-serif;
   }
 }
