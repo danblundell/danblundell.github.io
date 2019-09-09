@@ -28,7 +28,7 @@
 
   p {
     margin: 0 0 1rem;
-    text-align: justify;
+    text-align: left;
   }
 
   a:hover {
@@ -37,6 +37,14 @@
 
   img {
     margin: 0 auto 0.5rem;
+    @media (min-width: 600px) {
+      &.fr {
+        float:right;
+        width: 50%;
+        margin-left: 1rem;
+        margin-bottom: 1rem;
+      }
+    }
   }
 
   img + em {
@@ -58,6 +66,14 @@
     vertical-align: text-top;
     padding: 0;
     margin: 0;
+  }
+
+  blockquote {
+    font-style: italic;
+    color: $default-color;
+    p {
+
+    }
   }
 }
 
