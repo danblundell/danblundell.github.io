@@ -9,7 +9,9 @@ published: true
 youtubeId: RdRnJPIbYmc
 ---
 
-<p class="lede" markdown="1">Creating a bot as a one-off is [pretty well documented][lex-tutorial] but replicating that bot consistently and safely to create multiple environments is a little bit more tricky. How do you safely ad consistently create, update and throw away bots in a similar way that we can with virtual servers, databases and other infrastructure services?</p>
+<p class="lede" markdown="1">Creating a bot as a one-off is [pretty well documented][lex-tutorial] but replicating that bot consistently and safely to create multiple environments is a little bit more tricky. How do you safely and consistently create, update and throw away bots in a similar way that we can with virtual servers, databases and other infrastructure services?</p>
+
+{% include youtubePlayer.html id=page.youtubeId %}
 
 Developing bots of one type or other is something we’ve been asked to work on more and more. More recently we've created a bot that answers phone calls and redirects them like a switchboard operator depending on which service you ask for. Another is a bot that will run automated surveys at the end of a transaction or phone call and capture customer feedback.
 
@@ -19,7 +21,7 @@ But the challenge isn't creating a bot itself, the challenge is how do we create
 
 We’d normally be able to easily create multiple environments for development, testing, quality assurance (QA) and production but with a bot, this process involves a lot of manual work. It's made worse still because there's so much configuration with bots, questions, response types, workflow and logic that all needs to sit neatly together but often using separate services. How do we safely handle the configuration of multiple environments in a consistent and predictable way?
 
-I wanted to find a way to use what we know about Infrastructure as Code but with bots so that we get the same level of safety and consistency with our bot applications as we do with other software.
+I wanted to find a way to use what we know about Infrastructure as Code, with bots, so that we get the same level of safety and consistency with our bot applications as we do with other software.
 
 Before I get into how we’re currently doing this, there's a bit of a pre-requisite. Typically we'd use [Cloudformation][aws-cloudformation] or the [Serverless Application Model (SAM)][aws-sam] to code up AWS infrastructure. Both these services take a tempalte file and make the various required API calls to Amazon services to create infrastructure. 
 
@@ -172,10 +174,6 @@ In another project, we’ve moved slot values to a database table so that they c
 ### Round up
 
 Now that it’s working, the process for deploying an AWS Lex bot using AWS SAM/Cloudformation is pretty stable. It’s now as easy to create one new bot as it is to create 100 bots with exactly the same configuration which means we can confidently create, throw-away and recreate bot environments with the same confidence we would virtual servers or databases.
-
-### Walkthrough
-
-{% include youtubePlayer.html id=page.youtubeId %}
 
 [github-repo]: https://github.com/danblundell/aws-sam-feedback-bot
 [github-repo-template]: https://github.com/danblundell/aws-sam-feedback-bot/blob/master/template.yml
