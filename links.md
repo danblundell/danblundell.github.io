@@ -6,7 +6,9 @@ permalink: /links/
 # Links
 <div class="post-line"></div>
 
-1. 🎙️ [Stride Webinar - Shifting from practitioner to leader][stride]
+1. 🤖 [Chatbots as Code: YouTube][youtube]
+
+1. 📄 [Chatbots as Code: automatically deploying Amazon Lex bots using Cloudformation][blog]
 
 1. ✍️ [Blog](/)
 
@@ -20,4 +22,5 @@ permalink: /links/
 [twitter]: https://www.twitter.com/danblundell
 [insta]: https://www.instagram.com/dantblundell
 [email]: mailto:hello@danblundell.com
-[stride]: https://us02web.zoom.us/webinar/register/WN_5CMeu1MFRFKMaCzGxhWoeA
+[youtube]: https://www.youtube.com/watch?v=RdRnJPIbYmc
+[blog]: /2020/07/chatbots-as-code-with-amazon-lex-and-cloudformation
