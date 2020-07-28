@@ -29,6 +29,9 @@
   p {
     margin: 0 0 1rem;
     text-align: left;
+    &.lede {
+      font-size: 1.165em;
+    }
   }
 
   a:hover {
