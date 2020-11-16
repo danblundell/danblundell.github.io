@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <div class="post-line"></div>
+
+  {{ content }}
+
+  <small>If you enjoyed this post, feel free to <a href="https://www.buymeacoffee.com/kadHjni">buy me a coffee.</a> There's still an <a href="/feed.xml">RSS feed</a>, and you can follow me on <a href="https://www.twitter.com/danblundell" title="Dan Blundell on Twitter">Twitter</a> and <a href="https://www.instagram.com/dantblundell" title="Dan Blundell on Instagram">Instagram</a></small>
+</div>
+
+<div class="pagination">
+  {% if page.next.url %}
+    <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
+  {% endif %}
+  {% if page.previous.url %}
+    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
+  {% endif %}
+
+  <a href="#" class="top">Top</a>
+</div>
