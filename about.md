@@ -17,4 +17,4 @@ Dan 🚀
 
 [twitter]: https://www.twitter.com/danblundell
 [insta]: https://www.instagram.com/dantblundell
-[email]: mailto:hello@danblundell.com
+[email]: mailto:website@danblundell.com
