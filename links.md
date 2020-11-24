@@ -6,9 +6,7 @@ permalink: /links/
 # Links
 <div class="post-line"></div>
 
-1. 🤖 [Chatbots as Code: YouTube][youtube]
-
-1. 📄 [Chatbots as Code: automatically deploying Amazon Lex bots using Cloudformation][blog]
+1. 🙏 [Forever thankful blog post][blog]
 
 1. ✍️ [Blog](/)
 
@@ -23,4 +21,4 @@ permalink: /links/
 [insta]: https://www.instagram.com/dantblundell
 [email]: mailto:hello@danblundell.com
 [youtube]: https://www.youtube.com/watch?v=RdRnJPIbYmc
-[blog]: /2020/07/chatbots-as-code-with-amazon-lex-and-cloudformation
+[blog]: /2020/11/forever-thankful
