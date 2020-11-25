@@ -8,7 +8,7 @@ categories: [""]
 published: true
 ---
 
-<div class="tip"><p><strong>Before you begin –</strong> If you experience any kind of birth related anxiety or trauma, please tread carefully when reading this. Maybe, don't read it, the choice is yours but fair warning. I've written this as part of my own need to process but at the same time am conscious that I had no one to turn to during the events I describe below.</p> <p>I've written this in the hope that if someone else experiences similar events, you are never alone. My details are <a href="/contact">here</a></p></div>
+<div class="tip"><p><strong>Before you begin –</strong> If you experience any kind of birth related anxiety or trauma, please tread carefully when reading this. Maybe, don't read it, the choice is yours but fair warning. I've written this as part of my own need to process but at the same time am conscious that I had no one to turn to during the events I describe below.</p> <p>I've written this in the hope that if someone else experiences similar events, you are never alone. My details are <a href="/about">here</a></p></div>
 
 One night in December 2019, me and my wife Vikki, were watching Fighting with My Family on Netflix. Our toddler was upstairs in bed and our eight week old baby and I sat calmly in a chair. It was one of those quiet but proud moments, feeding him the last bottle of the day before we finished the movie and headed to bed. 
 
