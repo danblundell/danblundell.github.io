@@ -6,7 +6,7 @@ permalink: /links/
 # Links
 <div class="post-line"></div>
 
-1. 🙏 [Forever thankful blog post][blog]
+1. 🙏 [Clarity blog post][blog]
 
 1. ✍️ [Blog](/)
 
@@ -21,4 +21,4 @@ permalink: /links/
 [insta]: https://www.instagram.com/dantblundell
 [email]: mailto:hello@danblundell.com
 [youtube]: https://www.youtube.com/watch?v=RdRnJPIbYmc
-[blog]: /2020/11/forever-thankful
+[blog]: /2020/12/clarity
