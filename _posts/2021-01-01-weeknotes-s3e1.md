@@ -31,9 +31,9 @@ A new year and a welcome week of fewer meetings, time to think and digest, join 
 * Stuck to my 'move every day' pledge thanks to [Peloton][peloton] 🚴‍♂️ (referral code: `PCSC42`)
 
 ## Data (from January 1st 2021)
-* 01/01/2021: 40 minute run | 4.5 miles
-* 02/01/2021: 4 hour walk | 13 miles
-* 03/01/2021: 30 minute bike | 10.4 miles | Peloton
+* 01/01/2021: 40 minute run // 4.5 miles
+* 02/01/2021: 4 hour walk // 13 miles
+* 03/01/2021: 30 minute bike // 10.4 miles // Peloton
 
 
 [gs-66]: https://66.gymshark.com/
